@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/The-Bible-A-Divine-Library-with-One-Grand-Story.md",
+                "file": "blog/The-Bible-Test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The-Bible-A-Divine-Library-with-One-Grand-Story"
+              "title": "The-Bible-Test"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "a06f1c97074ceb2a",
   "lastOpenFiles": [
-    "blog/The-Bible-Gods-Revelation.md",
     "blog/The-Bible-A-Divine-Library-with-One-Grand-Story.md",
+    "blog/The-Bible-Test.md",
+    "blog/The-Bible-Gods-Revelation.md",
     "blog/The New File.md",
     "blog/The-Bible-Gods-Revelation 1.md",
     "_index.md"
