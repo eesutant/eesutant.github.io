@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/The-Bible-Gods-Revelation.md",
+                "file": "blog/TheBibleADivineLibrarywithOneGrandStory.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The-Bible-Gods-Revelation"
+              "title": "TheBibleADivineLibrarywithOneGrandStory"
             }
           }
         ],
@@ -184,10 +184,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a06f1c97074ceb2a",
+  "active": "7a45a391671760e9",
   "lastOpenFiles": [
-    "blog/The Bible - A Divine Library with One Grand Story.md",
     "blog/The-Bible-Gods-Revelation.md",
+    "blog/TheBibleADivineLibrarywithOneGrandStory.md",
     "blog/The New File.md",
     "blog/The-Bible-Gods-Revelation 1.md",
     "_index.md"
