@@ -4,19 +4,19 @@
 
   <url>
     <loc>https://eesutant.github.io/</loc>
-    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://eesutant.github.io/blog/</loc>
-    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://eesutant.github.io/blog/the-bible-gods-revelation/</loc>
-    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+    <loc>https://eesutant.github.io/tour/overview-of/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,14 +27,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://eesutant.github.io/blog/overview-of-new-testament---a-story-of-encounter-and-fulfillment/</loc>
+    <loc>https://eesutant.github.io/tour/</loc>
     <lastmod>2025-09-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://eesutant.github.io/blog/overview-of-new-testament---a-story-of-encounter-and-fulfillment/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://eesutant.github.io/blog/overview-of-the-old-testament---preparation-for-christ/</loc>
-    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,12 +51,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://eesutant.github.io/test/untitled/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eesutant.github.io/test/</loc>
+    <loc>https://eesutant.github.io/blog/the-bible-gods-revelation/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

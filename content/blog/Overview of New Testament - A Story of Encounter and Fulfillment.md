@@ -3,7 +3,7 @@ title: "Overview of New Testament - A Story of Encounter and Fulfillment"
 description: "..."
 categories: ["blog"]
 tags: ["bible"]
-date: "2025-09-18"
+date: "2025-09-15"
 draft: false
 ---
 **The New Testament: A Story of Encounter and Fulfillment**
@@ -114,7 +114,7 @@ That’s the invitation of the New Testament: to rise, walk, and live transforme
 
 4) [Bible Project, New Testament Overview](https://bibleproject.com/videos/new-testament-overview/)
 
-5) [Pawson, David, # Unlocking the New Testament Part 1](https://www.youtube.com/watch?v=F2KMYwBRngU)
+5) [Pawson, David, Unlocking the New Testament Part 1](https://www.youtube.com/watch?v=F2KMYwBRngU)
 
-6) [Boyd, Donald, A Summary of the New Testament in the Christian Bible](https://https://donaldboyd.org/2020/01/13/a-summary-of-the-new-testament-in-the-christian-bible/)
+6) [Boyd, Donald, A Summary of the New Testament in the Christian Bible](https://donaldboyd.org/2020/01/13/a-summary-of-the-new-testament-in-the-christian-bible/)
 

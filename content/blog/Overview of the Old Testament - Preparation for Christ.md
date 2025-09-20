@@ -3,7 +3,7 @@ title: "Overview of the Old Testament - Preparation for Christ"
 description: "..."
 categories: ["blog"]
 tags: ["bible"]
-date: "2025-09-18"
+date: "2025-09-14"
 draft: false
 ---
 **The Divine Purpose of the Old Testament: Preparation for Christ**

@@ -308,3 +308,17 @@ That tree is the tree of life. That path is the way of faith. Genesis 1 – 11 e
 “I am the way, the truth, and the life.”
 
 The journey begins here. The rest of Scripture is the unfolding of that path.
+
+**Resources:**
+
+1) Thomas, W.H. Griffith. Methods of Bible Study. New York: Association Press, 1911.
+
+2) Morgan, G. Campbell. An Exposition of the Whole Bible. London: Pickering and Inglis, 1959.
+
+3) [Ray Stedman](https://www.raystedman.org/bible-overview/highlights/the-beginnings-of-mankind-genesis-1to11) 
+
+4) [Bible Project, Genesis 1-11](https://bibleproject.com/videos/genesis-1-11/)
+
+5) [Pawson, David, Old Testament Studies: Genesis (1): Introduction](https://www.youtube.com/watch?v=KvvNVDIJp4M)
+
+6) [Boyd, Steve, What does the original Hebrew text reveal about Genesis 1-11?](https://www.youtube.com/watch?v=3txmpHQJ520&t=13s)
