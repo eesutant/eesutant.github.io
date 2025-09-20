@@ -1,5 +1,5 @@
 ---
-title: "New Testament - A Story of Encounter and Fulfillment"
+title: "Overview of New Testament - A Story of Encounter and Fulfillment"
 description: "..."
 categories: ["blog"]
 tags: ["bible"]
