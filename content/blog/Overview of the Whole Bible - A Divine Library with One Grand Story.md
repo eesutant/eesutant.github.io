@@ -1,5 +1,5 @@
 ---
-title: "The Bible: A Divine Library with One Grand Story"
+title: "Overview of the Whole Bible - A Divine Library with One Grand Story"
 description: "..."
 categories: ["blog"]
 tags: ["bible"]
@@ -121,13 +121,12 @@ This is the Bible’s story: a God who loves, a people who must choose to love H
 
 **What will your answer be?**
 
-**Resources**
+### Resources
 
-For more resources, please see the following:
-
-1. <https://www.raystedman.org/bible-overview/panorama/the-goal-of-revelation> - Ray Stedman on the whole Bible
-2. <https://www.youtube.com/watch?v=plSNIwhAn5o&list=PLH0Szn1yYNedn4FbBMMtOlGN-BPLQ54IH> – Bible Project animated videos on the Bible
-3. <https://www.youtube.com/watch?v=FX-mUmd_P4w&t=3771s> David Pawson on Studying the Bible
-4. <https://www.youtube.com/watch?v=Ne_uxf61zOE> Overview of the Bible
-5. <https://www.youtube.com/watch?v=VepTkJqC0l0> Introducing the Bible by Canadian Bible Society
-6. <https://www.youtube.com/watch?v=3tr1BURJ8iE&list=PLqx0j8YWUyPMwPVty33DQV3VSz22Fa9JU&index=96> Charles Price on Conviction about Scripture
+For more references, please see the following:
+- [Ray Stedman on the whole Bible](https://www.raystedman.org/bible-overview/panorama/the-goal-of-revelation)
+- [Bible Project animated videos on the Bible](https://www.youtube.com/watch?v=plSNIwhAn5o&list=PLH0Szn1yYNedn4FbBMMtOlGN-BPLQ54IH)
+- [David Pawson on Studying the Bible](https://www.youtube.com/watch?v=FX-mUmd_P4w&t=3771s) 
+- [Overview of the Bible](https://www.youtube.com/watch?v=Ne_uxf61zOE) 
+- [Introducing the Bible by Canadian Bible Society](https://www.youtube.com/watch?v=VepTkJqC0l0) 
+- [Charles Price on Conviction about Scripture](https://www.youtube.com/watch?v=3tr1BURJ8iE&list=PLqx0j8YWUyPMwPVty33DQV3VSz22Fa9JU&index=96) 

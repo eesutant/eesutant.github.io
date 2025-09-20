@@ -39,7 +39,7 @@ if (-not (Test-Path ".git")) {
     }
 }
 
-# Step 23: Build the Hugo site
+# Step 2: Build the Hugo site
 Write-Host "Building the Hugo site..."
 try {
     hugo
