@@ -3,7 +3,7 @@ title: "The Bible: God’s Revelation"
 description: "..."
 categories: ["blog"]
 tags: ["bible"]
-date: "2025-08-22"
+date: "2025-09-20"
 draft: false
 ---
 *(Adapted from Ray Stedman’s sermons on raystedman.org)*
