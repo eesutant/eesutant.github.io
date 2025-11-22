@@ -1,8 +1,8 @@
 # PowerShell Script for Windows
 
-$publicPath = "C:\blog\wordsoflifelibrary\public"
-$docsPath = "C:\Blog\wordsoflifelibrary\docs"
-$cnamePath = "C:\Blog\wordsoflifelibrary\docs\CNAME"
+$publicPath = "C:\blog\eesutant.github.io\public"
+$docsPath = "C:\Blog\eesutant.github.io\docs"
+$cnamePath = "C:\Blog\eesutant.github.io\docs\CNAME"
 
 # Set Github repo 
 $myrepo = "git@github.com:eesutant/eesutant.github.io.git"
