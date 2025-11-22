@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.wordsoflifelibrary.org/sitemap.xml
+Sitemap: https://wordsoflifelibrary.org/sitemap.xml
