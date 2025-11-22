@@ -6,4 +6,4 @@ tags: ["bible"]
 date: "2025-11-21"
 draft: false
 ---
-This is overview of Psalm
+This is overview of Psalm. from my machine.
