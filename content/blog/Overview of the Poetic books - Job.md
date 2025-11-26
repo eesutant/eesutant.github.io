@@ -3,7 +3,7 @@ title: "Overview of the Poetic books - Job to Song of Solomon: Music to Live By"
 description: "..."
 categories: ["blog"]
 tags: ["bible"]
-date: "2025-11-24"
+date: "2025-11-25"
 draft: false
 ---
 **Overview of the Poetic books - Job to Song of Solomon: Music to Live By**

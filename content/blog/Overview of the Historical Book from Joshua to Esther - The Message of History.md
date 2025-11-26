@@ -3,7 +3,7 @@ title: "Overview of the Historical Book from Joshua to Esther - The Message of H
 description: "..."
 categories: ["blog"]
 tags: ["bible"]
-date: "2025-11-25"
+date: "2025-11-24"
 draft: false
 ---
 **Opening Story: The Day the Walls Fell**
