@@ -122,3 +122,12 @@ They remind us that faith is not abstract, it touches every part of life: spirit
 Think of a young woman today, overwhelmed by anxiety, scrolling endlessly through social media for answers. She feels empty, even though her life looks "perfect" online. One night she stumbles upon Psalm 46: _"God is our refuge and strength, a very present help in trouble."_ Suddenly, she feels seen. Later, she reads Ecclesiastes and realizes that chasing likes and followers is "vanity." Proverbs nudges her toward healthier choices, and Song of Solomon reminds her that love is meant to be pure and uplifting. In the end, she discovers what Job did: **life only makes sense when anchored in God, not in His gifts, but in His very being.**
 
 **In short: the poetical books are not dusty relics, they are timeless songs that still play in the hearts of those searching for hope, wisdom, meaning, and love.**
+
+**Resources:**
+
+For more references, please see the following:
+
+- [Ray Stedman - Music to live by](https://www.raystedman.org/bible-overview/panorama/music-to-live-by)
+- [The Gospel Coalition - Introduction to Biblical Poetry and Wisdom Literature](https://www.thegospelcoalition.org/course/introduction-to-biblical-poetry-and-wisdom-literature/#introduction-to-ecclesiastes)
+- [Overview Bible](https://www.youtube.com/watch?v=zhVxiE3gQr8)
+

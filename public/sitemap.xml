@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://wordsoflifelibrary.org/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/blog/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/blog/overview-of-the-first-eight-prophetic-books---isaiah-to-obadiah---promises-in-action/</loc>
+    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
