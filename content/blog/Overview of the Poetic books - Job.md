@@ -1,13 +1,11 @@
 ---
-title: "Overview of the Poetic books - Job to Song of Solomon: Music to Live By"
+title: "Overview of the Poetic Books - Job to Song of Solomon: Music to Live By"
 description: "..."
 categories: ["blog"]
 tags: ["bible"]
 date: "2025-11-25"
 draft: false
 ---
-**Overview of the Poetic books - Job to Song of Solomon: Music to Live By**
-
 **A Modern Story for First-Time Readers**
 
 Imagine someone who has never read the Bible. Life feels confusing, work pressures, broken relationships, endless scrolling online, and a gnawing emptiness inside. One day, they pick up a Bible for the first time. At first, it feels overwhelming: so many books, strange names, ancient stories. But as they begin to read, they discover something surprising. The Bible isn't just about history or religion, it's about _them_. It speaks to their questions, their struggles, their emotions. It is a book that goes with man, entering every detail of life.
