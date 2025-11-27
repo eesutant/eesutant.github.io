@@ -174,5 +174,5 @@ For more references, please see the following:
 
 - [Ray Stedman - Things Surely to Be Believed, Part 1](https://www.raystedman.org/bible-overview/panorama/things-surely-to-be-believed-part-1)
 - [The Gospel Coalition - How to Read the Major Prophets Devotionally](https://www.thegospelcoalition.org/article/how-to-read-the-major-prophets-devotionally/)
-- [Bible Project - The Prophets[(https://bibleproject.com/videos/the-prophets/)
+- [Bible Project - The Prophets](https://bibleproject.com/videos/the-prophets/)
 

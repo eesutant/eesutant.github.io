@@ -12,9 +12,9 @@ Imagine standing in silence as you march around a fortified city. No weapons dra
 
 **How This Fits the Whole Bible Story**
 
-In the Blog on Overview of the Bible ([https://www.wordsoflifelibrary.org/blog/overview, of, the, whole, bible, , , a, divine, library, with, one, grand, story/](https://www.wordsoflifelibrary.org/blog/overview-of-the-whole-bible---a-divine-library-with-one-grand-story/)) emphasizes one central theme: _the revelation of Jesus Christ and the maturing of believers into His image_. The historical books from _Joshua to Esther_ are not isolated tales-they are part of this divine process. They show how God works through flawed people and unfolding events to shape a nation that anticipates the coming of Christ.
+In the Blog on [Overview of the Bible](https://www.wordsoflifelibrary.org/blog/overview-of-the-whole-bible---a-divine-library-with-one-grand-story/) emphasizes one central theme: _the revelation of Jesus Christ and the maturing of believers into His image_. The historical books from _Joshua to Esther_ are not isolated tales-they are part of this divine process. They show how God works through flawed people and unfolding events to shape a nation that anticipates the coming of Christ.
 
-In the blog on the Overview of the Old Testament ([https://www.wordsoflifelibrary.org/blog/overview, of, the, old, testament, , , preparation, for, christ/](https://www.wordsoflifelibrary.org/blog/overview-of-the-old-testament---preparation-for-christ/)) describes it as a book of _unfulfilled prophecy, unexplained sacrifices, and unsatisfied longings_. These historical books deepen that longing. Joshua shows the need for a greater conqueror. The book of Judges reveals the failure of human leadership. Kings and Chronicles cry out for a righteous king. Ezra, Nehemiah, and Esther highlight the need for lasting restoration. All point forward to Jesus-the true Priest, King, and Prophet.
+In the blog on the [Overview of the Old Testament](https://www.wordsoflifelibrary.org/blog/overview-of-the-old-testament---preparation-for-christ/)) describes it as a book of _unfulfilled prophecy, unexplained sacrifices, and unsatisfied longings_. These historical books deepen that longing. Joshua shows the need for a greater conqueror. The book of Judges reveals the failure of human leadership. Kings and Chronicles cry out for a righteous king. Ezra, Nehemiah, and Esther highlight the need for lasting restoration. All point forward to Jesus-the true Priest, King, and Prophet.
 
 **The Pentateuch: God's Pattern for Human Life**
 
@@ -127,7 +127,7 @@ But through every peril, God provides a path to victory. These books teach us to
 
 For more references, please see the following:
 
-- Ray Stedman - The Message of History: [https://www.raystedman.org/bible, overview/panorama/the, message, of, history](https://www.raystedman.org/bible-overview/panorama/the-message-of-history)
-- The Gospel Coalition , Introduction to the Old Testament Historical Books: [https://www.thegospelcoalition.org/essay/historical, books/](https://www.thegospelcoalition.org/essay/historical-books/)
-- Tito Marcellin, The Historical Books | Books of the Old Testament: <https://www.youtube.com/watch?v=FBfduUEDvbk>
+- [Ray Stedman - The Message of History](https://www.raystedman.org/bible-overview/panorama/the-message-of-history)
+- [The Gospel Coalition , Introduction to the Old Testament Historical Books](https://www.thegospelcoalition.org/essay/historical-books/)
+- [Tito Marcellin, The Historical Books | Books of the Old Testament](https://www.youtube.com/watch?v=FBfduUEDvbk)
 
