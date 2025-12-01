@@ -1,5 +1,5 @@
 ---
-title: **Overview of the Last Eight Prophets - from Jonah to Malachi - Things Surely to be Believed**
+title: "Overview of the Last Eight Prophets - from Jonah to Malachi - Things Surely to be Believed"
 description: "..."
 categories: ["blog"]
 tags: ["bible"]
