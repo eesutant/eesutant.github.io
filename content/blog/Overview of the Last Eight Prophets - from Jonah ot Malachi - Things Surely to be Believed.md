@@ -6,6 +6,12 @@ tags: ["bible"]
 date: "2025-11-29"
 draft: false
 ---
+**Opening Story - A City on the Brink**
+
+In 1945, as World War II drew to a close, the city of Berlin lay in ruins. Buildings were shattered, families displaced, and hope seemed extinguished. Yet amid the devastation, something remarkable happened: communities began to rebuild not only their homes but also their faith. Churches reopened, neighbours shared scarce food, and people clung to promises of renewal even when the future looked impossible. Out of collapse came resilience, and out of despair came a rediscovery of values deeper than material security.
+
+This story mirrors the heartbeat of the prophets. Just as Berlin found renewal after destruction, the last eight prophets of the Old Testament spoke into times of crisis, collapse, and uncertainty. They offered promises of mercy, justice, faith, and restoration-truths that remain "things surely to be believed" for every generation.
+
 **Introduction**
 
 The Old Testament and the New Testament complement one another, forming a unified revelation. Across many centuries, around three dozen different authors from diverse backgrounds contributed to the Scriptures. Despite this variety, the Bible fits together in perfect harmony. Such coherence is beyond human ability and marks the hand of God.
