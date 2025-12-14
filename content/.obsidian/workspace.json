@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Overview Psalm.md",
+                "file": "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview Psalm"
+              "title": "Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption"
+            }
+          },
+          {
+            "id": "8c493e57e428dbb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/The Overview of Matthew to Acts - The Gospels and Acts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Overview of Matthew to Acts - The Gospels and Acts"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,13 +226,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "56c891efb2b27639",
+  "active": "8c493e57e428dbb2",
   "lastOpenFiles": [
+    "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
+    "blog/The Overview of Matthew to Acts - The Gospels and Acts.md",
+    "Overview od the Gospels and Book of Acts.md",
     "blog/The Message of History - From Joshua to Esther.md",
     "blog/Overview Psalm.md",
     "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
     "blog/Overview of Proverb and Psalm.md",
-    "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
     "blog/Overview of New Testament - A Story of Encounter and Fulfillment.md",
     "Tour/Untitled.md",
     "Tour/Overview of.md",
