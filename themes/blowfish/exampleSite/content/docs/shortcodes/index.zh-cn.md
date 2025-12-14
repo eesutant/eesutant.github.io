@@ -16,8 +16,8 @@ series_order: 8
 `alert` 可以将其中内容输出为文章中的风格化消息框。它对于吸引读者注意您不想让读者错过的重要信息很有用。
 
 <!-- prettier-ignore-start -->
-| 参数        | 功能                                                                                                                             |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 参数 | 功能 |
+| --- | --- |
 | `icon`      | **可选** 显示在左侧的图标。<br>**默认：** `exclaimation triangle icon` (查看[图标简码](#图标)，了解有关使用图标的更多详细信息。) |
 | `iconColor` | **可选** 基本 CSS 样式中图标的颜色。<br>可以是十六进制值 (`#FFFFFF`) 或颜色名称 (`white`)<br>默认情况下由当前配色方案决定。      |
 | `cardColor` | **可选** 基本 CSS 样式中卡片背景的颜色。<br>可以是十六进制值 (`#FFFFFF`) 或颜色名称 (`white`)<br>默认情况下由当前配色方案决定。  |
@@ -253,16 +253,16 @@ Blowfish 包含一个 `figure` 简码，用于将图像添加到内容中。该�
 `figure` 简码接受六个参数：
 
 <!-- prettier-ignore-start -->
-| 参数      | 功能                                                                                                                                                                                                                                                     |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `src`     | **必填** 图像的本地路径/文件名或 URL。当提供路径和文件名时，主题将尝试使用以下查找顺序来查找图像：首先，作为与页面绑定的[页面资源](https://gohugo.io/content-management/page-resources/)；然后是 `assets/` 目录中的文件；最后是，`static/`目录中的文件。 |
-| `alt`     | 图像的[替代文本描述](https://moz.com/learn/seo/alt-text)。                                                                                                                                                                                               |
-| `caption` | Markdown 格式的图像标题，将显示在图像下方。                                                                                                                                                                                                              |
-| `class`   | 应用于图像的其他 CSS 类。                                                                                                                                                                                                                                |
-| `href`    | 图像应链接到的 URL。                                                                                                                                                                                                                                     |
-| `target`  | `href` URL 的目标属性。                                                                                                                                                                                                                                  |
-| `nozoom`  | `nozoom=true` 会禁用图像`缩放`功能。与 `href` 结合使用十分有用。                                                                                                                                                                                         |
-| `default` | 用于恢复默认 Hugo `figure` 行为的特殊参数。只需提供`default=true`，然后使用正常的 [Hugo 简码语法](https://gohugo.io/content-management/shortcodes/#figure)。                                                                                             |
+| 参数 | 功能 |
+| --- | --- |
+| `src` | **必填** 图像的本地路径/文件名或 URL。当提供路径和文件名时，主题将尝试使用以下查找顺序来查找图像：首先，作为与页面绑定的[页面资源](https://gohugo.io/content-management/page-resources/)；然后是 `assets/` 目录中的文件；最后是，`static/`目录中的文件。 |
+| `alt` | 图像的[替代文本描述](https://moz.com/learn/seo/alt-text)。 |
+| `caption` | Markdown 格式的图像标题，将显示在图像下方。 |
+| `class` | 应用于图像的其他 CSS 类。 |
+| `href` | 图像应链接到的 URL。 |
+| `target` | `href` URL 的目标属性。 |
+| `nozoom` | `nozoom=true` 会禁用图像`缩放`功能。与 `href` 结合使用十分有用。 |
+| `default` | 用于恢复默认 Hugo `figure` 行为的特殊参数。只需提供`default=true`，然后使用正常的 [Hugo 简码语法](https://gohugo.io/content-management/shortcodes/#figure)。 |
 <!-- prettier-ignore-end -->
 
 Blowfish 还支持使用标准 Markdown 语法自动转换图像。只需使用以下格式，主题将自动处理：
@@ -426,7 +426,8 @@ Blowfish 还支持使用标准 Markdown 语法自动转换图像。只需使用�
 <!-- prettier-ignore-start -->
 | 参数   | 功能                                           |
 | ------ | ---------------------------------------------- |
-| `repo` | [String] 格式为 `username/repo` 的 github repo |
+| `repo` | \[字符串] 格式为 `username/repo` 的 github repo |
+| `showThumbnail` | **可选** \[布尔值] 是否显示缩略图，默认为 `true` |
 <!-- prettier-ignore-end -->
 
 **例1:**
@@ -599,8 +600,8 @@ When life gives you lemons, make lemonade.
 `List` 将显示最近文章的列表。此简码需要一个限制值来约束列表。此外，它还支持输入 `where` 和 `value` ，以便按参数过滤文章。请注意，此简码不会显示其父页面，但会计入限制值。
 
 <!-- prettier-ignore-start -->
-| 参数       | 功能                                                                                                   |
-| ---------- | ------------------------------------------------------------------------------------------------------ |
+| 参数 | 功能 |
+| --- | --- |
 | `limit`    | **必填** 要显示的最近文章数量。                                                                        |
 | `title`    | **可选** 列表标题，默认为 `Recent`                                                                     |
 | `cardView` | **可选** 列表启用卡片视图，默认为 `false`                                                              |
@@ -728,12 +729,13 @@ B-->C[Profit]
 `timeline` 创建了一个可视化时间线，用于展示专业经验、项目成就等。 `timeline` 简码依赖于 `timelineItem` 子简码来定义主时间线中的每个项目。每个项目可以具有以下属性。
 
 <!-- prettier-ignore-start -->
-| 参数        | 功能                     |
-| ----------- | ------------------------ |
-| `icon`      | 要在时间线中使用的图标。 |
-| `header`    | 每个条目的标题           |
-| `badge`     | 放置在右上角徽章内的文本 |
-| `subheader` | 每个条目的副标题         |
+| 参数        | 功能                                |
+| ----------- | ----------------------------------- |
+| `md`        | 将内容渲染为 Markdown (true/false)  |
+| `icon`      | 要在时间线中使用的图标              |
+| `header`    | 每个条目的标题                      |
+| `badge`     | 放置在右上角徽章内的文本            |
+| `subheader` | 每个条目的副标题                    |
 
 <!-- prettier-ignore-end -->
 

@@ -19,6 +19,14 @@ article:
   part: "Part"
   this_article: "This Article"
   related_articles: "Related"
+  reply_by_email: "Rispondi via email"
+
+a11y:
+  title: "Impostazioni di accessibilità"
+  disable_blur: "Disattiva sfocatura"
+  disable_images: "Disattiva immagini"
+  show_link_underline: "Mostra sottolineatura link"
+  font_size: "Dimensione del carattere"
 
 author:
   byline_title: "Autore"

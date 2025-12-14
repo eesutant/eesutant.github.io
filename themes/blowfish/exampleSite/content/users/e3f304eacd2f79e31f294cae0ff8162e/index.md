@@ -2,7 +2,7 @@
                 title: "irusukan"
                 tags: [Personal Site,Blog]
                 externalUrl: "https://irusukan.com"
-                weight: 99
+                weight: 93
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

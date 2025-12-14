@@ -25,13 +25,15 @@ article:
   part: "パート"
   this_article: "この記事"
   related_articles: "関連記事"
+  reply_by_email: "メールで返信"
   zen_mode_title:
     enable: "Zenモードを有効にする"
     disable: "Zenモードを無効にする"
 
 a11y:
+  title: "アクセシビリティ設定"
   disable_blur: "ぼかしを無効にする"
-  disable_images: "画像を無効にする"
+  disable_images: "背景画像を無効にする"
   show_link_underline: "リンクの下線を表示する"
   font_size: "フォントサイズ"
 

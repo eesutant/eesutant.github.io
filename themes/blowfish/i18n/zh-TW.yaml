@@ -25,13 +25,15 @@ article:
   part: "§"
   this_article: "本文"
   related_articles: "相關文章"
+  reply_by_email: "透過郵件回覆"
   zen_mode_title:
     enable: "啟用閱讀模式"
     disable: "停用閱讀模式"
 
 a11y:
-  disable_blur: "停用模糊效果"
-  disable_images: "停用圖片"
+  title: "無障礙設定"
+  disable_blur: "停用背景模糊"
+  disable_images: "移除背景圖片"
   show_link_underline: "顯示連結底線"
   font_size: "字體大小"
 

@@ -1,6 +1,6 @@
 ---
                 title: "n9o.xyz"
-                tags: [パーソナルサイト, テーマ著者]
+                tags: [個人サイト, テーマ作者]
                 externalUrl: "https://n9o.xyz"
                 weight: 1
                 showDate: false

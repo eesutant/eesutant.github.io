@@ -543,25 +543,6 @@
     ]
   },
   {
-    "title": "MEM v ENNBEE",
-    "url": "https://memv.ennbee.uk/",
-    "source": "https://github.com/ennnbeee/ennnbeee.github.io",
-    "tags": [
-      "Technology Blog",
-      "Personal site"
-    ]
-  },
-  {
-    "title": "Joshua Blais",
-    "url": "https://joshblais.com/",
-    "source": "n/a",
-    "tags": [
-      "Personal Site",
-      "Author",
-      "Digital Garden"
-    ]
-  },
-  {
     "title": "Beauty Formulation",
     "url": "https://www.beautyformulation.com/",
     "source": "n/a",
@@ -594,16 +575,6 @@
     "source": "n/a",
     "tags": [
       "Personal Site"
-    ]
-  },
-  {
-    "title": "micheledinelli.github.io",
-    "url": "https://micheledinelli.github.io",
-    "source": "n/a",
-    "tags": [
-      "Personal Site",
-      "Portfolio Site",
-      "Academia"
     ]
   },
   {
@@ -676,17 +647,6 @@
       "Personal site",
       "Software Developer",
       "Blog"
-    ]
-  },
-  {
-    "title": "merox.dev",
-    "url": "https://merox.dev",
-    "source": "https://github.com/mer0x/merox.dev",
-    "tags": [
-      "Personal site",
-      "Blog",
-      "Documentation",
-      "CV"
     ]
   },
   {
@@ -875,11 +835,116 @@
     ]
   },
   {
-    "title": "caytejohn.xyz",
-    "url": "https://caytejohn.xyz",
+    "title": "Learn-Software.com",
+    "url": "https://learn-software.com",
+    "source": "https://github.com/learn-software-engineering/website",
+    "tags": [
+      "Personal Website",
+      "Tech Blog",
+      "Learning",
+      "Software Engineering",
+      "Programming",
+      "Artificial intelligence"
+    ]
+  },
+  {
+    "title": "mitri.lol",
+    "url": "https://mitri.lol",
+    "source": "n/a",
+    "tags": [
+      "Personal site",
+      "Fun Project"
+    ]
+  },
+  {
+    "title": "kieranlowe.io",
+    "url": "https://kieranlowe.io",
+    "source": "n/a",
+    "tags": [
+      "Technology Blog"
+    ]
+  },
+  {
+    "title": "eike.in",
+    "url": "https://eike.in",
+    "source": "https://github.com/LarvenStein/eike.in",
+    "tags": [
+      "Personal site",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Dan Davidson | Where Crypto, Charts and Curiosity Collide",
+    "url": "https://danly.io",
+    "source": "n/a",
+    "tags": [
+      "Personal site",
+      "Technology Blog"
+    ]
+  },
+  {
+    "title": "tbsch.de | Smart Home, Technik, Kram",
+    "url": "https://tbsch.de",
     "source": "n/a",
     "tags": [
       "Personal site"
+    ]
+  },
+  {
+    "title": "metalhearf.fr",
+    "url": "https://metalhearf.fr",
+    "source": "n/a",
+    "tags": [
+      "Blog",
+      "Personal site"
+    ]
+  },
+  {
+    "title": "encelo.github.io",
+    "url": "https://encelo.github.io/",
+    "source": "https://github.com/encelo/encelo.github.io",
+    "tags": [
+      "Personal site",
+      "Blog"
+    ]
+  },
+  {
+    "title": "ncine.github.io",
+    "url": "https://ncine.github.io/",
+    "source": "https://github.com/nCine/nCine-site",
+    "tags": [
+      "Project site"
+    ]
+  },
+  {
+    "title": "István Merza",
+    "url": "https://www.merza.is/",
+    "source": "https://gitlab.com/istvanmerza/istvanmerza.gitlab.io",
+    "tags": [
+      "Personal site",
+      "Blog",
+      "Tech Blog",
+      "Fun Project",
+      "Learning"
+    ]
+  },
+  {
+    "title": "daytaur.com",
+    "url": "https://daytaur.com/",
+    "source": "n/a",
+    "tags": [
+      "Portfolio",
+      "Environment design"
+    ]
+  },
+  {
+    "title": "zzamboni.org",
+    "url": "https://zzamboni.org/",
+    "source": "https://gitlab.com/zzamboni/zzamboni.org",
+    "tags": [
+      "Personal site",
+      "Blog",
+      "Technology Blog"
     ]
   }
 ]

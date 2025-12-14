@@ -25,13 +25,15 @@ article:
   part: "§"
   this_article: "本文"
   related_articles: "相关文章"
+  reply_by_email: "通过邮件回复"
   zen_mode_title:
     enable: "啟用阅读模式"
     disable: "停用阅读模式"
 
 a11y:
+  title: "无障碍设定"
   disable_blur: "禁用模糊效果"
-  disable_images: "禁用图片"
+  disable_images: "禁用背景图片"
   show_link_underline: "显示链接下划线"
   font_size: "字体大小"
 

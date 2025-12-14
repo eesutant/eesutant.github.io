@@ -2,7 +2,7 @@
                 title: "Weg um Weg"
                 tags: [博客, 户外博客]
                 externalUrl: "https://www.wegumweg.de"
-                weight: 95
+                weight: 89
                 showDate: false
                 showAuthor: false
                 showReadingTime: false
