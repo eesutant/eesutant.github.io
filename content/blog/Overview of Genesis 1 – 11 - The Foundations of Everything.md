@@ -6,8 +6,6 @@ tags: ["bible"]
 date: "2025-09-18"
 draft: false
 ---
-**Overview of Genesis 1 – 11: The Foundations of Everything**
-
 _Adapted from insights by Ray C. Stedman and other biblical reflections_
 
 **A Relevant Story: The Mirror in the Rubble**

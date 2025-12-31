@@ -6,8 +6,6 @@ tags: ["bible"]
 date: "2025-09-13"
 draft: false
 ---
-**The Bible: A Divine Library with One Grand Story**
-
 **_Adapted from Ray Stedman’s sermons on raystedman.org_**
 
 The Bible is not just one book—it is a divine library of sixty-six books, written over centuries by various authors, yet telling one unified story of God's love, redemption, and purpose for humanity. This article is the first in a series that will explore each book of the Bible, one by one. But before we dive into individual overviews, we begin here with the big picture: an overview of the Bible as a whole. This foundational piece sets the stage for understanding how each book fits into the grand narrative of Scripture and how the entire Bible reveals God's heart and plan for the world.

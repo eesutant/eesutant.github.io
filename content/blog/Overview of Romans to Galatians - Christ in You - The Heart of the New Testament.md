@@ -8,10 +8,6 @@ tags:
 date: 2025-12-30
 draft: false
 ---
-**
-
-**Overview of Romans to Galatians - Christ in You, The Heart of the New Testament**
-
 **(Adapted from Ray Stedman's sermons on raystedman.org)**
 
 **A Story to Begin**

@@ -6,8 +6,6 @@ tags: ["bible"]
 date: "2025-09-15"
 draft: false
 ---
-**The New Testament: A Story of Encounter and Fulfillment**
-
 It begins with a woman, alone, burdened, drawing water under the scorching midday sun. She’s not expecting company, especially not a Jewish man who would speak to her. But Jesus does. He asks for a drink, then offers her something far greater: “living water.” In that moment, her story changes. She runs back to her village, no longer hiding, proclaiming, “Come see a man who told me everything I ever did!”
 
 This encounter in John 4 isn’t just a touching moment; it’s the heartbeat of the New Testament. It captures the essence of its message: Jesus meets people where they are, offers transformation, and turns shame into purpose.

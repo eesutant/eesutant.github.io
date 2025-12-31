@@ -8,10 +8,6 @@ tags:
 date: 2025-12-14
 draft: false
 ---
-**
-
-**Overview of Matthew to Acts - The Gospels and Acts**  
-  
 **A Story to Begin**  
   
 A young nurse once told me about her first night shift in the emergency ward. She was terrified, machines beeping, patients crying, doctors rushing past. She didn't know where to start. Then she noticed one senior nurse quietly moving from bed to bed, adjusting pillows, holding hands, whispering comfort. No one applauded her, but the atmosphere changed. The chaos became bearable because someone was serving.  

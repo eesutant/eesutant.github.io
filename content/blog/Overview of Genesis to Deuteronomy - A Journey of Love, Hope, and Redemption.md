@@ -6,8 +6,6 @@ tags: ["bible"]
 date: "2025-09-18"
 draft: false
 ---
-**Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption**
-
 **A Modern Story: From Chaos to Clarity**
 
 Jasmine was a high-performing executive in a fast-paced tech firm. Her days were packed with meetings, deadlines, and decisions. But beneath the surface, she felt hollow, drifting between roles, unsure of her purpose, and increasingly disconnected from her faith. One evening, after a particularly draining week, she stumbled upon an old Bible tucked behind some books on her shelf. On impulse, she opened to the beginning: Genesis.
