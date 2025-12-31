@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Words of Life Library</title>
-    <link>https://wordsoflifelibrary.org/series/</link>
+    <link>https://eesutant.github.io/series/</link>
     <description>Recent content in Series on Words of Life Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>danny.sut@gmail.com (Danny Sutanto)</managingEditor>
     <webMaster>danny.sut@gmail.com (Danny Sutanto)</webMaster>
     <copyright>© 2025 Danny Sutanto</copyright>
-    <atom:link href="https://wordsoflifelibrary.org/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eesutant.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
