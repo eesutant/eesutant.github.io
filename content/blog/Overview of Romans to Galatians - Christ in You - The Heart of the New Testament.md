@@ -14,7 +14,7 @@ draft: false
 
 A man once bought a complicated drone for his son. The box promised incredible things: flight, stability, precision, but when he opened it, he found dozens of parts and a thick manual. Confident he could figure it out, he ignored the instructions and began assembling it himself. Hours later, frustrated and surrounded by scattered pieces, he finally opened the manual. Suddenly, everything made sense. The parts weren't random; they were designed to work together.
 
-Many Christians experience the Bible the same way. They know individual stories, they've heard sermons, but the pieces don't always fit together. The books of **Acts and Romans** function like the "instruction manual" for understanding what God is doing in the world-and what He intends to do within us.
+Many Christians experience the Bible the same way. They know individual stories, they've heard sermons, but the pieces don't always fit together. The books of **Romans to Galatians** function like the "instruction manual" for understanding what God is doing in the world-and what He intends to do within us.
 
 At the heart of Scripture is this conviction: **God reveals Himself to transform human lives.** The Bible is a living book with a living message, and genuine contact with it should change us. If it doesn't, something is missing in the way we are engaging with it. And because it takes the whole of Scripture to shape the whole of life, we step back to survey these books together, to see what they say and how they say it.
 
