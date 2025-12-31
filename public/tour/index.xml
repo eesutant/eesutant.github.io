@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tours on Words of Life Library</title>
-    <link>http://localhost:1313/tour/</link>
+    <link>https://wordsoflifelibrary.org/tour/</link>
     <description>Recent content in Tours on Words of Life Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>danny.sut@gmail.com (Danny Sutanto)</managingEditor>
     <webMaster>danny.sut@gmail.com (Danny Sutanto)</webMaster>
     <copyright>© 2025 Danny Sutanto</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tour/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/tour/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Overview of</title>
-      <link>http://localhost:1313/tour/overview-of/</link>
+      <link>https://wordsoflifelibrary.org/tour/overview-of/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       <author>danny.sut@gmail.com (Danny Sutanto)</author>
-      <guid>http://localhost:1313/tour/overview-of/</guid>
+      <guid>https://wordsoflifelibrary.org/tour/overview-of/</guid>
       <description></description>
       
     </item>
