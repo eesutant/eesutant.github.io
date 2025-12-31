@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "0077f3270622760c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7e5e644450cf84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685019600f54a3bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/The-Bible-Gods-Revelation.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The-Bible-Gods-Revelation"
+            }
+          },
+          {
+            "id": "a06f1c97074ceb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Overview of Genesis 1 – 11 - The Foundations of Everything"
+            }
+          },
+          {
+            "id": "af2bf5728930ad17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview of Genesis 1 – 11 - The Foundations of Everything"
+            }
+          },
+          {
+            "id": "56c891efb2b27639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption"
+            }
+          },
+          {
+            "id": "8c493e57e428dbb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07c3c368c6aef073",
+    "type": "split",
+    "children": [
+      {
+        "id": "922b26daa826c6cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a45a391671760e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "102a24b010da6012",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3f02199c0d93861",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc1da1533867c0e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "337f2b7b9d9f8c8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d94c197c6ef08c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _index"
+            }
+          },
+          {
+            "id": "e7c3482023e4602a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _index"
+            }
+          },
+          {
+            "id": "0c698778e9eb23ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a694751316ce44c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8c493e57e428dbb2",
+  "lastOpenFiles": [
+    "blog/The Overview of Matthew to Acts - The Gospels and Acts.md",
+    "blog/Overview of Romans to Galatians - Christ in You - The Heart of the New Testament.md",
+    "blog/Overview of Matthew to Acts - The Gospels and Acts.md",
+    "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
+    "Overview od the Gospels and Book of Acts.md",
+    "blog/The Message of History - From Joshua to Esther.md",
+    "blog/Overview Psalm.md",
+    "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
+    "blog/Overview of Proverb and Psalm.md",
+    "blog/Overview of New Testament - A Story of Encounter and Fulfillment.md",
+    "Tour/Untitled.md",
+    "Tour/Overview of.md",
+    "blog/Overview of the Old Testament - Preparation for Christ.md",
+    "blog/The-Bible-Gods-Revelation.md",
+    "blog/Overview of the Whole Bible - A Divine Library with One Grand Story.md",
+    "blog/The New Testament - A Story of Encounter and Fulfillment.md",
+    "_index.md",
+    "Tour",
+    "blog/The-Bible-Test.md",
+    "test",
+    "blog/The New File.md"
+  ]
+}
