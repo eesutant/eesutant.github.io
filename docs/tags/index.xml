@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blowfish</title>
+    <title>Tags on Words of Life Library</title>
     <link>https://eesutant.github.io/tags/</link>
-    <description>Recent content in Tags on Blowfish</description>
+    <description>Recent content in Tags on Words of Life Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
+    <managingEditor>danny.sut@gmail.com (Danny Sutanto)</managingEditor>
+    <webMaster>danny.sut@gmail.com (Danny Sutanto)</webMaster>
+    <copyright>© 2025 Danny Sutanto</copyright>
     <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://eesutant.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bible</title>
       <link>https://eesutant.github.io/tags/bible/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-      
+      <author>danny.sut@gmail.com (Danny Sutanto)</author>
       <guid>https://eesutant.github.io/tags/bible/</guid>
       <description></description>
       
