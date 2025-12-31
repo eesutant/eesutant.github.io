@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://eesutant.github.io/sitemap.xml
+Sitemap: https://wordsoflifelibrary.org/sitemap.xml
