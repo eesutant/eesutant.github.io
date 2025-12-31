@@ -9,7 +9,17 @@
     <managingEditor>danny.sut@gmail.com (Danny Sutanto)</managingEditor>
     <webMaster>danny.sut@gmail.com (Danny Sutanto)</webMaster>
     <copyright>© 2025 Danny Sutanto</copyright>
-    <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/tags/bible/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/tags/bible/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>https://wordsoflifelibrary.org/blog/test/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <author>danny.sut@gmail.com (Danny Sutanto)</author>
+      <guid>https://wordsoflifelibrary.org/blog/test/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Overview of Romans to Galatians - Christ in You, The Heart of the New Testament</title>
@@ -67,6 +77,16 @@
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       <author>danny.sut@gmail.com (Danny Sutanto)</author>
       <guid>https://wordsoflifelibrary.org/blog/overview-of-the-historical-book-from-joshua-to-esther---the-message-of-history/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wordsoflifelibrary.org/templates/note-template/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <author>danny.sut@gmail.com (Danny Sutanto)</author>
+      <guid>https://wordsoflifelibrary.org/templates/note-template/</guid>
       <description></description>
       
     </item>
