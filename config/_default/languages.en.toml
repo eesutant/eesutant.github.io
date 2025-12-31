@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Words of Life Library"
 
 [params]
   displayName = "EN"
@@ -14,13 +14,13 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+[params.author]
+  name = "Danny Sutanto"
+  email = "danny.sut@gmail.com"
+  image = "img/author_photo.png"
+  imageQuality = 96
+#  headline = "sdsads"
+#  bio = "Add a bio"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
