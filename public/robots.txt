@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://eesutant.github.io/sitemap.xml
