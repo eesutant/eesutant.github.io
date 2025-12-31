@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Test.md",
+                "file": "templates/note template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "note template"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "a06f1c97074ceb2a",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "blog/Test.md",
+    "Untitled 1.md",
     "Untitled.md",
     "templates/note template.md",
     "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
