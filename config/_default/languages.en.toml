@@ -21,8 +21,8 @@ title = "Words of Life Library"
   imageQuality = 96
 #  headline = "sdsads"
 #  bio = "Add a bio"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+   links = [
+    { email = "mailto:danny.sut@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -73,4 +73,4 @@ title = "Words of Life Library"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]
