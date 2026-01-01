@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://wordsoflifelibrary.org/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/blog/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/blog/overview-of-ephesians-to-philemon---you-in-christ/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
