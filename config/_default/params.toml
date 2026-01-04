@@ -15,8 +15,6 @@ enableCodeCopy = false
 
 replyByEmail = true
 
-[analytics.google]
-id = "G-DZV1LMB159"
 
 # mainSections = ["section1", "section2"]
 # robots = ""
@@ -180,3 +178,6 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [advertisement]
   # adsense = ""
 
+
+[analytics.google]
+id = "G-DZV1LMB159"
