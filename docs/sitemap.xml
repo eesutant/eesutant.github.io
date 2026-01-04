@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://wordsoflifelibrary.org/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/blog/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/blog/overview-of-revelation---the-ending-that-makes-sense-of-everything/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
