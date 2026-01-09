@@ -1,9 +1,11 @@
 ---
-title: "Overview of the Whole Bible - A Divine Library with One Grand Story"
-description: "..."
-categories: ["blog"]
-tags: ["bible"]
-date: "2025-09-13"
+title: Overview of the Whole Bible - A Divine Library with One Grand Story
+description: ...
+categories:
+  - blog
+tags:
+  - bible
+date: 2025-09-13
 draft: false
 ---
 **_Adapted from Ray Stedman’s sermons on raystedman.org_**
