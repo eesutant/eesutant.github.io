@@ -7,6 +7,10 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="theme-color">
 
+
+  <!--Google Analytics-->
+  {{ template "_internal/google_analytics.html" . }}
+
   {{/* Title */}}
   {{ if .IsHome }}
     <title>{{ .Site.Title | emojify }}</title>
@@ -76,7 +80,7 @@
       {{ end }}
     {{ end }}
   {{ end }}
-{{ template "_internal/google_analytics.html" . }}
+
   {{/* Site Verification */}}
   {{ with .Site.Params.verification.google }}
     <meta name="google-site-verification" content="{{ . }}">
