@@ -1,5 +1,4 @@
-└───layouts
-    └───_internal
+
 {{- with site.Config.Services.GoogleAnalytics.ID }}
   {{- if hugo.IsProduction }}
   {{- $ga4 := resources.GetRemote "https://cdn.jsdelivr.net/npm/@minimal-analytics/ga4/dist/index.js" }}

@@ -1,8 +1,14 @@
- └───js
-            import params from "@params";
+import params from "@params";
+
+assets
+
 
 window.minimalAnalytics = {
   trackingId: params.trackingId,
-  autoTrack: true, // <-- init tracking
+  window.minimalAnalytics = {
+    trackingId: params.trackingId,
+    autoTrack: true,
+    defineGlobal: true,
+  };
   defineGlobal: true,
 };
