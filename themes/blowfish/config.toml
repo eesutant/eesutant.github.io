@@ -1,5 +1,7 @@
 
-googleAnalytics = "G-DZV1LMB159"
+[params.google.analytics]
+id = "G-DZV1LMB159"
+
 
 [module]
 [module.hugoVersion]
