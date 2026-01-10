@@ -7,10 +7,6 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="theme-color">
 
-
-  <!--Google Analytics-->
-  {{ template "_internal/google_analytics.html" . }}
-
   {{/* Title */}}
   {{ if .IsHome }}
     <title>{{ .Site.Title | emojify }}</title>
@@ -239,4 +235,7 @@
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}"
       crossorigin="anonymous"></script>
   {{ end }}
+
+  <!--Google Analytics-->
+  {{ template "_internal/google_analytics.html" . }}
 </head>

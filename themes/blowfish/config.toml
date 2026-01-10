@@ -1,3 +1,6 @@
+
+googleAnalytics = "G-DZV1LMB159"
+
 [module]
 [module.hugoVersion]
 extended = true
