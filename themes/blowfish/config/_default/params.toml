@@ -179,3 +179,5 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [advertisement]
   # adsense = ""
+
+googleAnalytics = "G-DZV1LMB159"
