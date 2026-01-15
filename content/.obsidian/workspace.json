@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book-by-Book Oerviews of Bible books/Overview of Genesis - The Book of Beginnings.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview of Genesis - The Book of Beginnings"
+              "title": "_index"
             }
           }
         ]
@@ -172,11 +172,13 @@
   },
   "active": "685019600f54a3bb",
   "lastOpenFiles": [
+    "templates/note template.md",
+    "_index.md",
+    "Book-by-Book Oerviews of Bible books/Overview of Genesis - The Book of Beginnings.md",
     "blog/Book-by-Book Overviews of Bible books/Overview of Genesis - The Book of Beginnings.md",
     "blog/Book-by-Book Overviews of Bible books/Delighting in God's Word.md",
     "blog/Overview of the Whole Bible - A Divine Library with One Grand Story.md",
     "blog/Book-by-Book Overviews of Bible books",
-    "_index.md",
     "blog/Overview of the Poetic books - Job.md",
     "blog/Overview of the Old Testament - Preparation for Christ.md",
     "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
@@ -187,7 +189,6 @@
     "blog/Overview of New Testament - A Story of Encounter and Fulfillment.md",
     "blog/Overview of Ephesians to Philemon - You in Christ, The Shared Life of the Body.md",
     "blog/Overview of Romans to Galatians - Christ in You - The Heart of the New Testament.md",
-    "templates/note template.md",
     "Untitled 1.md",
     "Untitled.md",
     "templates",
@@ -199,7 +200,6 @@
     "Overview od the Gospels and Book of Acts.md",
     "blog/The Message of History - From Joshua to Esther.md",
     "blog/Overview Psalm.md",
-    "blog/Overview of Proverb and Psalm.md",
     "Book-by-Book Oerviews of Bible books",
     "test"
   ]
