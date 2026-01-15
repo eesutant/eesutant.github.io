@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Overview of the Whole Bible - A Divine Library with One Grand Story.md",
+                "file": "blog/Book-by-Book Overviews of Bible books/Delighting in God's Word.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview of the Whole Bible - A Divine Library with One Grand Story"
+              "title": "Delighting in God's Word"
             }
           }
         ]
@@ -170,8 +170,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a45a391671760e9",
+  "active": "685019600f54a3bb",
   "lastOpenFiles": [
+    "blog/Overview of the Whole Bible - A Divine Library with One Grand Story.md",
     "blog/Book-by-Book Overviews of Bible books",
     "_index.md",
     "blog/Overview of the Poetic books - Job.md",
@@ -190,7 +191,6 @@
     "Untitled.md",
     "templates",
     "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
-    "blog/Overview of the Whole Bible - A Divine Library with One Grand Story.md",
     "blog/Overview of the Last Eight Prophets - from Jonah ot Malachi - Things Surely to be Believed.md",
     "blog/Overview of the Historical Book from Joshua to Esther - The Message of History.md",
     "blog/Overview of the First Eight Prophetic Books - Isaiah to Obadiah - Promises in Action.md",
