@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "Book-by-Book Overviews of Bible Books"
+  name = "Book-by-Book Overviews"
   weight = 20
 
 #[[main]]
