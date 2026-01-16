@@ -15,9 +15,9 @@
   pageRef = "blog"
   weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Book-by-Book Overviews of Bible Books"
+  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"
