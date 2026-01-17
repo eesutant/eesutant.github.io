@@ -21,4 +21,4 @@ At Words of Life Library, you will find:
 
 We believe Scripture is more than words, it is **alive, transformative, and deeply relevant**. Whether you are seeking clarity on biblical themes, exploring Christian perspectives, or looking for faith-enriching books, Words of Life Library invites you to **journey through the sacred pages** with us.
 
-To explore our content, please **click on [Bible Survey](https://wordsoflifelibrary.org/bible-survey/))** to explore the main divisions of the Bible and click on  [Book-by-Book Bible Overview](https://wordsoflifelibrary.org/bible-book-overview/))**and join us in discovering the Words of Life.
+To explore our content, please **click on [Bible Survey](https://wordsoflifelibrary.org/bible-survey/)** to explore the main divisions of the Bible and click on  [Book-by-Book Bible Overview](https://wordsoflifelibrary.org/bible-book-overview/)**and join us in discovering the Words of Life.
