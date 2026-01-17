@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "BBible Book Groups"
-  pageRef = "Big Picture of the Bible"
+  name = "Bible Book Groups"
+  pageRef = "Bible Book Groups"
   weight = 10
 
 [[main]]
