@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Bible Book Groups"
-  pageRef = "Bible Book Groups"
+  name = "Bible Survey"
+  pageRef = "Bible Survey"
   weight = 10
 
 [[main]]
-  name = "Book-by-Book Overview"
-  pageRef = "Book-by-Book Overview"
+  name = "Bible Book Overview"
+  pageRef = "Bible Book Overview"
   weight = 20
 
 #[[main]]
