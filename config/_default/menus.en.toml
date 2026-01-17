@@ -17,7 +17,7 @@
 
 [[main]]
   name = "Book-by-Book Overviews"
-  pageRef = "blog"
+  pageRef = "Book-by-Book Overviews"
   weight = 20
 
 #[[main]]
