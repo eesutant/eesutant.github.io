@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "Bible Book Overview"
-  pageRef = "Bible Book Overview"
+  name = "Book-by-Book Overview of the Bible"
+  pageRef = "Book-by-Book Overview of the Bible"
   weight = 20
 
 #[[main]]
