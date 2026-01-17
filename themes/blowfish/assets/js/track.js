@@ -1,6 +1,6 @@
 import params from "@params";
 
-assets
+#assets
 
 
 window.minimalAnalytics = {
