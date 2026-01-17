@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "Book-by-Book Overviews"
-  pageRef = "Book-by-Book Overviews"
+  name = "Book-by-Book Overview"
+  pageRef = "Book-by-Book Overview"
   weight = 20
 
 #[[main]]
