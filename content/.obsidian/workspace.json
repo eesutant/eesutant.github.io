@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Book-by-book Bible Overview/Overview of Exodus - The Pattern of Redemption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Overview of Exodus - The Pattern of Redemption"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "e4a5127d0f5ec6aa",
   "lastOpenFiles": [
-    "Bible Survey/Delighting in God's Word.md",
     "_index.md",
+    "Book-by-book Bible Overview/Overview of Exodus - The Pattern of Redemption.md",
+    "Bible Survey/Delighting in God's Word.md",
     "templates/note template.md",
     "Book-by-book Bible Overview/Overview of Genesis - The Book of Beginnings.md",
     "Bible Survey/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
@@ -199,7 +200,6 @@
     "Bible Survey/Overview of the Last Eight Prophets - from Jonah ot Malachi - Things Surely to be Believed.md",
     "Bible Survey/Overview of the Historical Book from Joshua to Esther - The Message of History.md",
     "Bible Survey/Overview of the First Eight Prophetic Books - Isaiah to Obadiah - Promises in Action.md",
-    "blog/The Overview of Matthew to Acts - The Gospels and Acts.md",
     "Book-by-book Bible Overview",
     "test"
   ]
