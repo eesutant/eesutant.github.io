@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://wordsoflifelibrary.org/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-leviticus-with-stories-for-today---the-way-to-wholeness/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
