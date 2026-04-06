@@ -11,13 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "blog"
+  name = "Bible Survey"
+  url = "/en/bible-survey/"
   weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Book-by-Book Bible Overview"
+  url = "/en/book-by-book-bible-overview/"
+  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"

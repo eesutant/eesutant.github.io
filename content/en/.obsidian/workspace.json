@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "0077f3270622760c",
+    "id": "009a8bd3982a9ac3",
     "type": "split",
     "children": [
       {
-        "id": "a7e5e644450cf84d",
+        "id": "f162a0cf530be676",
         "type": "tabs",
         "children": [
           {
-            "id": "685019600f54a3bb",
+            "id": "670fa84144928ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/The-Bible-Gods-Revelation.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The-Bible-Gods-Revelation"
-            }
-          },
-          {
-            "id": "a06f1c97074ceb2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Overview of Genesis 1 – 11 - The Foundations of Everything"
-            }
-          },
-          {
-            "id": "4256c1bee97e8eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
+                "file": "bible-survey/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption"
+              "title": "_index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "07c3c368c6aef073",
+    "id": "d27f907d0e54e99f",
     "type": "split",
     "children": [
       {
-        "id": "922b26daa826c6cf",
+        "id": "c822977b5d8c84c6",
         "type": "tabs",
         "children": [
           {
-            "id": "7a45a391671760e9",
+            "id": "08d5bad37977880f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "102a24b010da6012",
+            "id": "6ecff5c54159e5ed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "b3f02199c0d93861",
+            "id": "2d3eecc075eeefe5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "dc1da1533867c0e6",
+    "id": "d76f03ba2442104f",
     "type": "split",
     "children": [
       {
-        "id": "337f2b7b9d9f8c8f",
+        "id": "19b53762a6e41b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "0d94c197c6ef08c3",
+            "id": "15191d9240ed9bc2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "bible-survey/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,12 +108,12 @@
             }
           },
           {
-            "id": "e7c3482023e4602a",
+            "id": "2fef85bbec51f1ff",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "bible-survey/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -151,7 +122,7 @@
             }
           },
           {
-            "id": "0c698778e9eb23ea",
+            "id": "5e84936f9772c20f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,12 +137,26 @@
             }
           },
           {
-            "id": "a694751316ce44c3",
+            "id": "59c786b1e0c5b61a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aa0af12034b0da56",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md",
+                "file": "bible-survey/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,21 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "4256c1bee97e8eae",
+  "active": "670fa84144928ead",
   "lastOpenFiles": [
-    "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
-    "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
-    "blog/Overview of New Testament - A Story of Encounter and Fulfillment.md",
-    "Tour/Untitled.md",
-    "Tour/Overview of.md",
-    "blog/Overview of the Old Testament - Preparation for Christ.md",
-    "blog/The-Bible-Gods-Revelation.md",
-    "blog/Overview of the Whole Bible - A Divine Library with One Grand Story.md",
-    "blog/The New Testament - A Story of Encounter and Fulfillment.md",
-    "_index.md",
-    "Tour",
-    "blog/The-Bible-Test.md",
-    "test",
-    "blog/The New File.md"
+    "bible-survey/index.md",
+    "bible-survey/New Text Document.txt",
+    "bible-survey/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
+    "home.md",
+    "bible-survey/Overview of Genesis 1 – 11 - The Foundations of Everything.md"
   ]
 }

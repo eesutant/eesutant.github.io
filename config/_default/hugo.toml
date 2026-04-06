@@ -3,10 +3,11 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://eesutant.github.io/"
+baseURL = "https://wordsoflifelibrary.org/"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+pluralizeListTitles = false # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
 summaryLength = 0
@@ -15,6 +16,7 @@ buildDrafts = false
 buildFuture = false
 
 enableEmoji = true
+#pluralizeListTitles = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 
@@ -67,3 +69,29 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+	title = "Words of Life Library"
+    weight = 1
+
+  [languages.bn]
+    languageName = "Bangla"
+	title = "Words of Life Library"
+    weight = 2
+ [params]
+  #disableLandingPage = true
+  disableTurbo = true
+  disableInstantPage = true
+[params.header]
+    layout = "basic"
+    showTitle = true
+
+[menu]
+
+  [[menu.main]]
+    name  = "Words of Life Library"
+    url   = "/"
+    weight = 1
